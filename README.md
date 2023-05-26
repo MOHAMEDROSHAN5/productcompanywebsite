@@ -418,7 +418,7 @@ body {
 
 ## PEOPLE PAGE OUTPUT:
 
-![OUTPUT](./peop.html)
+![OUTPUT](./peop.png)
 
 ## CONTACT PAGE OUTPUT:
 
